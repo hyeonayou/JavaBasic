@@ -4,5 +4,7 @@ public class HelloJava {
 
         System.out.println("Hello Word!2");
         System.out.println("Hello Word!3");
+        System.out.println("Hello Word!4");
+        System.out.println("Hello Word!5");
     }
 }
