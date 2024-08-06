@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dd5c6fd-db24-453c-9b88-5fe603dabd65" name="Changes" comment="test .gitignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="0dd5c6fd-db24-453c-9b88-5fe603dabd65" name="Changes" comment="test Commit!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HelloJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloJava.java" afterDir="false" />
     </list>
@@ -17,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="testBranch2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,6 +88,9 @@
       <list>
         <item itemvalue="Application.Casting3" />
         <item itemvalue="Application.Casting2" />
+        <item itemvalue="Application.Casting3" />
+        <item itemvalue="Application.Casting2" />
+        <item itemvalue="Application.Casting3" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722123286765</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test Commit!">
+      <option name="closed" value="true" />
+      <created>1722944693903</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722944693903</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,8 +154,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test Commit!" />
     <MESSAGE value="test .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="test .gitignore" />
+    <MESSAGE value="test Commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="test Commit!" />
   </component>
 </project>
