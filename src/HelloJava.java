@@ -6,5 +6,6 @@ public class HelloJava {
         System.out.println("Hello Word!4");
         System.out.println("Hello Word!5");
         System.out.println("특정 브랜치 커밋");
+        System.out.println("깃 test 브랜치 커밋1");
     }
 }
