@@ -9,5 +9,6 @@ public class HelloJava {
         System.out.println("깃 test 브랜치 커밋1");
         System.out.println("깃 test 브랜치 커밋2");
         System.out.println("깃 test 브랜치 커밋3");
+        System.out.println("깃 test 브랜치 커밋4 ");
     }
 }
